@@ -246,14 +246,14 @@ for i, suit in ipairs(suits) do
 			{
 				key = "lc",
 				ranks = ranks,
-				display_ranks = {"King", "Queen", "Jack", "Ace"},
+				display_ranks = {"Ace", "King", "Queen", "Jack"},
 				atlas = atlas_suit_lc.key,
 				pos_style = 'deck',
 			},
 			{
 				key = "hc",
 				ranks = ranks,
-				display_ranks = {"King", "Queen", "Jack", "Ace"},
+				display_ranks = {"Ace", "King", "Queen", "Jack"},
 				atlas = atlas_suit_hc.key,
 				pos_style = 'deck',
 			},
@@ -275,14 +275,14 @@ for i, suit in ipairs(suits) do
 			{
 				key = "lc",
 				ranks = ranks,
-				display_ranks = {"King", "Queen", "Jack", "Ace"},
+				display_ranks = {"Ace", "King", "Queen", "Jack"},
 				atlas = atlas_full_lc.key,
 				pos_style = 'deck',
 			},
 			{
 				key = "hc",
 				ranks = ranks,
-				display_ranks = {"King", "Queen", "Jack", "Ace"},
+				display_ranks = {"Ace", "King", "Queen", "Jack"},
 				atlas = atlas_full_hc.key,
 				pos_style = 'deck',
 			},
